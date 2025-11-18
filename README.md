@@ -3,7 +3,7 @@ driven operations and able to identify goals and priorities according to SLA agr
 - 👀 I’m interested in Data Analysis, siftware systems support and cloud computing.
 - 🌱 I’m currently learning Data Analyst with Udacity
 - 💞️ I’m looking to collaborate on using Python language for Data analysis
-- 📫 How to reach me LinkedIn https://www.linkedin.com/in/robert-gadzai-5536b160/
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/robertgadzai/ 
 
 <!---
 gadzairobert/gadzairobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
